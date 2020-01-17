@@ -1,4 +1,7 @@
 
+// This implementation uses some brilliant techniques from Pharap's fixed point library. You 
+// can find the source code of the library here: https://github.com/Pharap/FixedPointsArduino
+
 #pragma once
 
 #include <cstdint>
